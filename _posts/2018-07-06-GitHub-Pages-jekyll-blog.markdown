@@ -4,7 +4,6 @@ title:        "使用GitHub Pages和jekyll创建个人博客"
 subtitle:     ""
 date:         2018-07-06 19:48:00
 author:       "Lupu"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true	<!-- 目录 -->
 multilingual: false	<!-- 多语言切换 -->
