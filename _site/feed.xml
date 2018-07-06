@@ -5,9 +5,34 @@
     <description>共享进步</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Jul 2018 20:38:58 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Jul 2018 20:38:58 +0800</lastBuildDate>
+    <pubDate>Fri, 06 Jul 2018 21:04:26 +0800</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 21:04:26 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>《统计学习方法》读书笔记</title>
+        <description>&lt;!-- latex格式 --&gt;
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;!-- latex格式 --&gt;
+
+&lt;h2 id=&quot;0书籍说明&quot;&gt;0.书籍说明&lt;/h2&gt;
+&lt;p&gt;所读书籍为李航的《统计学习方法》，版次为2012年3月第1版。&lt;/p&gt;
+&lt;h2 id=&quot;决策树&quot;&gt;决策树&lt;/h2&gt;
+
+</description>
+        <pubDate>Sat, 07 Jul 2018 04:45:18 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/07/statistical-learning-method/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/07/statistical-learning-method/</guid>
+        
+        <category>统计学习</category>
+        
+        <category>读书笔记</category>
+        
+        <category>算法</category>
+        
+        
+      </item>
     
       <item>
         <title>使用GitHub Pages和jekyll创建个人博客</title>
@@ -33,77 +58,6 @@
         <category>工具</category>
         
         <category>文字</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>他是狗，你们便是苟奴隶</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;在知乎被删帖，我理解知乎。&lt;br /&gt;
-你说你们做不了什么，我也理解你们。&lt;br /&gt;
-&lt;br /&gt;
-只是，总要有人，还敢说点反对的声音吧？  &lt;br /&gt;
-只是，不想让这一切，看起来都变得如此理所应当吧？&lt;br /&gt;
-&lt;br /&gt;
-你说，你们也抗争了&lt;br /&gt;
-那就站出来，让我们相信，你们还在吧？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;我甚至都不需要写出 LGL 三个顶天立地的大字，你们便知道我今天要说什么了。
-骂狗官、骂体制、骂 D，骂的人已经够多了。我故是可以再骂，却也深知自己甚至连让他们听到这份声音的能力都没有。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;但今天，我要骂的是你们，至少还能听到我声音的你们。&lt;/strong&gt; 我亲爱的同行们啊，那些在微博、知乎与其他社交网络公司工作的你们啊。无论你是我推心置腹的好友，相识或共事过的伙伴，还是素未谋面的陌生人，对不起，今天我要骂的就是你们。&lt;/p&gt;
-
-&lt;p&gt;微博，「随时随地发现新鲜事」，这世界 TM 还只能发生你审核过的新鲜事了？&lt;/p&gt;
-
-&lt;p&gt;知乎，「发现更大的世界」，我 TM 还只能发现你审核过的世界了？&lt;/p&gt;
-
-&lt;p&gt;好一个又一个讲着漂亮故事的互联网公司啊，你们不是打着 UGC、言论开放的旗号、沾着民智渐开，民主自由的福利吗？好一个又一个独立自强、新时代的互联网员工啊，你们不是为「建设了中国互联网」，打造了一个「用户喜爱的产品」而感到自豪吗？&lt;/p&gt;
-
-&lt;p&gt;嘴上说着不要，身体却已经跪在金钱与权势之下任人驱使了嘛。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;奴隶，通常指失去人身自由并被他人任意驱使的，为他们做事的人。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;这种情况，我们一般称之为「奴隶」。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;你可以跟我喊冤，说你也想反抗过，说你也很无奈。说你也思考过政府和媒体的关系，说你也知道权利、体制的可怖与强大，说你不能承担反抗的后果。&lt;/p&gt;
-
-&lt;p&gt;可难道那些国乒远动员们不知道吗？从小成长在体制内的他们，比你清楚得多太多了。可是为了自己的权利、自己的公平，自己的爱，他们还是集体站出来了啊！他们直面着比你大得多的体制压力，承受着可能影响他们一生的严重后果。你告诉他们应该隐忍？识大体？沉默？那叫做苟且，叫做冷血，叫做向暴政与不公屈服！他们也知道，在体制面前他们势单力薄，可能是以卵击石头。他们不顾一切的发声，那是在请求我们的帮助啊！&lt;/p&gt;
-
-&lt;p&gt;而你现在却还在问我你为什么要怪罪我，而不去怪罪那些「上面」的人？&lt;/p&gt;
-
-&lt;p&gt;我当然也怪罪「上面」的人！但是你们，是你们！直接挡住了他们的求救，挡住了人民的援助，挡住了人民发声的渠道啊！传统媒体是 D 的喉舌，而你们呢，为自由奋斗的你们呢？你们本该成为人民的耳朵、眼睛和嘴啊，现在却愿意让人民都成为聋子、瞎子、哑巴了吗？&lt;/p&gt;
-
-&lt;p&gt;你们或许觉得一己之力无法改变任何事情，于是沉默，每个人都沉默，仿佛罪恶都被平摊了，到每个人身上就都接近于 0 了。仿佛这一切就都理所应当了，可是真的就理所应当了吗？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;一群人在作恶时，每个个体就不是在作恶了吗！？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;天再黑也要说话啊。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我是一个胖球迷，从小就是。初中、高中、大学一路在校队打着酱油，参加一些业余的小比赛。很多人说在中国会打点胖球没什么稀奇，这是国球。很多人说打胖球不帅，女生们都围着打篮球的转。可是没办法，我就是喜欢，床头贴着 LGL 带着二王一马拿下世乒赛的海报，家里的《乒乓世界》一垛又一垛，一直到现在也不舍得扔。&lt;/p&gt;
-
-&lt;p&gt;我是一个程序员，从小就是。在几家公司打过酱油，做过一些小分享。很多人说程序员都是农民，天天干一些重复的事情，加班多，死得早。可是没办法，我就是喜欢，喜欢互联网这个崇尚自由与平等的地方，欣赏那些用互联网让世界变得更加美好的人们。我不是为了谋生而选择了这个职业，我是为了自由与骄傲。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We will not go quietly into the night! &lt;br /&gt;
-We will not vanish without a fight! &lt;br /&gt;
-We’re going to live on! &lt;br /&gt;
-We’re going to survive! &lt;br /&gt;
-Today, we celebrate our Independence Day!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;国乒，愿有属于你们的独立日。&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Jun 2017 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/06/24/you-are-slaves/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/24/you-are-slaves/</guid>
         
         
       </item>
