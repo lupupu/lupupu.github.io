@@ -5,8 +5,8 @@
     <description>共享进步</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Jul 2018 10:03:32 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jul 2018 10:03:32 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Jul 2018 10:10:06 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Jul 2018 10:10:06 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -21,6 +21,8 @@
 &lt;p&gt;工欲善其事必先利其器，Tex相较于word这种所见即所得（WYSIWYG）的文字处理工具还是具有一定优势。但也不能沉醉于工具之中，关键是要写出来的内容好不好！&lt;/p&gt;
 &lt;h2 id=&quot;方法论&quot;&gt;方法论&lt;/h2&gt;
 &lt;p&gt;快速上手一种工具，最好是能够和众人一起讨论，一起学习。Tex中国社区中的论坛&lt;a href=&quot;http://bbs.ctex.org/forum.php&quot;&gt;CTEX社区&lt;/a&gt;提供了这种可能，并且该论坛处于活跃状态，这促使我选用了该工具。&lt;/p&gt;
+
+&lt;p&gt;持续更新中（2018.7.12）&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 12 Jul 2018 17:31:27 +0800</pubDate>
