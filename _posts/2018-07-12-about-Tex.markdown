@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "关于Tex的一些资料以及个人思考"
+subtitle:   "工欲善其事必先利其器"
+date:       2018-07-12 09:31:27
+author:     "Lupu"
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - 工具
+    - 文字
+    - 资源
+    - 方法论
+---
+
+## 资料汇总
+1. [Chinese TeX Society](http://www.ctex.org)：Tex中国社区
+1. [国科大学位论文 LaTeX 模板使用说明书](https://github.com/mohuangrui/ucasthesis/blob/master/模板使用说明.pdf)：可以作为一个熟悉Tex的例子
+
+
+## 思考
+工欲善其事必先利其器，Tex相较于word这种所见即所得（WYSIWYG）的文字处理工具还是具有一定优势。但也不能沉醉于工具之中，关键是要写出来的内容好不好！
+## 方法论
+快速上手一种工具，最好是能够和众人一起讨论，一起学习。Tex中国社区中的论坛[CTEX社区](http://bbs.ctex.org/forum.php)提供了这种可能，并且该论坛处于活跃状态，这促使我选用了该工具。
+
